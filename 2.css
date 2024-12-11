@@ -1,0 +1,25 @@
+.q1 {
+    color: red;
+    text-align: center;
+    font-weight: 900;
+}
+.q2 {
+    color: green;
+    text-align-last: center;
+}
+.q3 {
+    text-decoration: double underline;
+    text-align: center;
+}
+.q4 {
+    text-decoration: dashed line-through;
+    text-align: center;
+}
+.q5 {
+    text-decoration: dotted overline;
+    text-align: center;
+}
+.q6 {
+    text-decoration: wavy pink overline underline line-through;
+    text-align: center;
+}
